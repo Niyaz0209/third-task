@@ -437,7 +437,7 @@ class firstpage extends StatelessWidget {
                  Text('Montage',
                  style: TextStyle(
                    fontWeight: FontWeight.bold,
-                   fontSize: 20,
+                   fontSize: 21,
                  ),
                  
                  ),
